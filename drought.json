@@ -1,0 +1,72 @@
+{
+  "severe": [
+   {
+     "coordinates": [
+      {
+	   "latitude": 38.762703,
+	   "longitude": -123.529007
+	  },
+	  {
+	   "latitude": 39.283032,
+	   "longitude": -122.464569
+	  },
+	  {
+	   "latitude": 38.323048,
+	   "longitude": -120.802130
+	  },
+	  {
+	   "latitude": 37.150259,
+	   "longitude": -120.670570
+	  },
+	  {
+	   "latitude": 36.633741,
+	   "longitude": -121.938329
+	  }
+    ]
+   },
+   {
+     "coordinates": [
+	  {
+	   "latitude": 34.649490,
+	   "longitude": -118.170972
+	  },
+	  {
+	   "latitude": 34.317142,
+	   "longitude": -118.493527
+	  },
+	  {
+	   "latitude": 33.834753,
+	   "longitude": -118.072413
+	  },
+	  {
+	   "latitude": 34.102262,
+	   "longitude": -117.490022
+	  }
+    ]
+   }
+  ],
+
+  "moderate": [
+    {
+      "coordinates": [
+        {
+          "latitude": 41.991213,
+          "longitude": -122.636799
+        },
+        {
+          "latitude": 40.985174,
+          "longitude": -121.894805
+        },
+        {
+          "latitude": 40.843278,
+          "longitude": -120.008154
+        },
+        {
+          "latitude": 41.996496,
+          "longitude": -120.008154
+        }
+      ]
+    }
+  ]
+}
+
